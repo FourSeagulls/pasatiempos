@@ -1,4 +1,4 @@
-// https://docs.oracle.com/javase/8/docs/api/
+// @author FourSeagulls
 package principalClass;
 
 import ventanas.VPrincipal;
@@ -8,7 +8,6 @@ public class Principal {
 
     public static void main(String[] args) {
         iniciar();
-        //puzzlear();
 
     }   //  Fin main
        
